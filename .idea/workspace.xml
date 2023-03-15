@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b1eea079-f04c-4bd4-b576-4ee3ce8201c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21RFYHE7ak9SHyQ9HvsGda3I3oG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\MDF-SA-DDI-main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.task1_old">
+    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="李杨的项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1重做2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="李杨的项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task1重做2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1重做" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="李杨的项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task1重做.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task1_old" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="李杨的项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/task1_old.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task1_old" />
+        <item itemvalue="Python.task1重做2" />
+        <item itemvalue="Python.task1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1eea079-f04c-4bd4-b576-4ee3ce8201c9" name="Default Changelist" comment="" />
+      <created>1637896038481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637896038481</updated>
+      <workItem from="1637896040531" duration="11326000" />
+      <workItem from="1638168625037" duration="768000" />
+      <workItem from="1643520303768" duration="49442000" />
+      <workItem from="1643716109257" duration="419000" />
+      <workItem from="1644191718687" duration="3047000" />
+      <workItem from="1644976948629" duration="293000" />
+      <workItem from="1644977349328" duration="2857000" />
+      <workItem from="1644999022387" duration="72000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Deployment" timestamp="1644978550741">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Deployment/0.0.1280.680@0.0.1280.680" timestamp="1644978550741" />
+    <state x="382" y="150" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1643625216187">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="382" y="150" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1643625216187" />
+    <state x="99" y="205" width="1077" height="475" key="#xdebugger.evaluate" timestamp="1643679098927">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="99" y="205" width="1077" height="475" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1643679098927" />
+    <state width="1278" height="411" key="DebuggerActiveHint" timestamp="1644978222611">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1278" height="411" key="DebuggerActiveHint/0.0.1280.680@0.0.1280.680" timestamp="1644978222611" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1644998792809">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1644998792809" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1644998792809">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1644998792809" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1644998792808">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1644998792808" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1644998792809">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1644998792809" />
+    <state width="1237" height="139" key="GridCell.Tab.1.bottom" timestamp="1644998792799">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="139" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1644998792799" />
+    <state width="1237" height="139" key="GridCell.Tab.1.center" timestamp="1644998792799">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="139" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1644998792799" />
+    <state width="1237" height="139" key="GridCell.Tab.1.left" timestamp="1644998792799">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="139" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1644998792799" />
+    <state width="1237" height="139" key="GridCell.Tab.1.right" timestamp="1644998792799">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="139" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1644998792799" />
+    <state width="647" height="347" key="XDebugger.FullValuePopup" timestamp="1644978222602">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="647" height="347" key="XDebugger.FullValuePopup/0.0.1280.680@0.0.1280.680" timestamp="1644978222602" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1643617505502">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1643617505502" />
+    <state x="197" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1643617165007">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="197" y="80" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1280.680@0.0.1280.680" timestamp="1643617165007" />
+    <state x="332" y="95" width="617" height="490" key="find.popup" timestamp="1643616947238">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="332" y="95" width="617" height="490" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1643616947238" />
+    <state x="520" y="78" key="ftp.server.browser" timestamp="1643520381917">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="520" y="78" key="ftp.server.browser/0.0.1280.680@0.0.1280.680" timestamp="1643520381917" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="df_drug" />
+        <watch expression="extraction" />
+        <watch expression="(len(np.array(df_drug['name']).tolist())" />
+        <watch expression="len(np.array(df_drug['name']).tolist()" />
+        <watch expression="len(np.array(df_drug['name']).tolist())" />
+        <watch expression="i" />
+        <watch expression="np.array(df_drug['name']).tolist()[i]" />
+        <watch expression="len(x_train[0]) // 2" />
+        <watch expression="df_feature" />
+        <watch expression="numerator / denominator" />
+        <watch expression="drugA[i]" />
+        <watch expression="drugA" />
+        <watch expression="drugA[1]" />
+        <watch expression="drugA.tolist()" />
+        <watch expression="df_drug['name']" />
+        <watch expression=" df_drug['name'].index('1111') " />
+        <watch expression="df_drug['name'].index('aaaa')" />
+        <watch expression="df_drug['name'].tolist()" />
+        <watch expression="df_drug['name'].tolist().index('aaaa')" />
+        <watch expression=" df_drug['name'].tolist().index(i) for i in   drugA.tolist()" />
+        <watch expression=" [df_drug['name'].tolist().index(i) for i in   drugA.tolist()]" />
+        <watch expression="[df_drug['name'].tolist().index(i) for i in   drugA.tolist()]" />
+        <watch expression="drag_a_index" />
+        <watch expression="new_feature" />
+        <watch expression="np.array([drag_a_index,drag_b_index])" />
+        <watch expression="np.array([drag_a_index,drag_b_index])] " />
+        <watch expression="np.concatenate([new_feature,    np.array([drag_a_index, drag_b_index])]   , axis=0)" />
+        <watch expression=" np.concatenate(   [new_feature,    np.array([drag_a_index, drag_b_index])]   , axis=1)" />
+        <watch expression="np.array([drag_a_index,drag_b_index]).T" />
+        <watch expression="np.concatenate(   [new_feature,    np.array([drag_a_index, drag_b_index]).T]   , axis=1)" />
+        <watch expression="X[-2:]" />
+        <watch expression="X" />
+        <watch expression="X[:,-2:]" />
+        <watch expression="  self.qianru(   X[:,-2:]   )" />
+        <watch expression="X[:,-2:] " />
+        <watch expression=" X[:,-2] " />
+        <watch expression="self.qianru(   X[:,-2]   )" />
+        <watch expression=" X[:,-2].dtype(int) " />
+        <watch expression="X[:,-2].int" />
+        <watch expression=" X[:,-2].int()  " />
+        <watch expression=" self.qianru(   X[:,-2].int()  )" />
+        <watch expression="X[:,:-2]" />
+        <watch expression="self.ae1(X)" />
+        <watch expression="self.l1(X)  " />
+        <watch expression="skf.split(feature, label)" />
+        <watch expression="(len(x_train[0])-2)//2" />
+        <watch expression="np.vstack(   (x_train, np.hstack(  (x_train[:, half:2*half], x_train[:, :half])            )       )   )" />
+        <watch expression=" np.vstack(   (x_train[:,:-3], np.hstack(  (x_train[:, half:2*half], x_train[:, :half] , x_train[:, -2:]  )            )       )   )" />
+        <watch expression="x_train[:,:-3]" />
+        <watch expression="np.hstack(  (x_train[:, half:2*half], x_train[:, :half] , x_train[:, -2:]  )            )     " />
+        <watch expression="__py_debug_temp_var_1103903747" />
+        <watch expression="np.vstack(   (x_train, np.hstack(  (x_train[:, half:2*half], x_train[:, :half] , x_train[:, -2:]  )            )       )   )" />
+        <watch expression="np.random.seed(seed)" />
+        <watch expression="list(skf.split(feature, label))[:1]" />
+        <watch expression="inputs.transpose(0,1)" />
+        <watch expression="inputs.transpose(0,1).unsqueeze(2)" />
+        <watch expression="  inputs.unsqueeze(2) " />
+        <watch expression="   inputs.transpose(0,1).unsqueeze(2)  " />
+        <watch expression=" model(    inputs.transpose(0,1).unsqueeze(2)    )" />
+        <watch expression="model(    inputs.transpose(0,1).unsqueeze(2)    )" />
+        <watch expression="len(feature[0])" />
+        <watch expression=" inputs.unsqueeze(1)   " />
+        <watch expression="X.transpose(0,1)" />
+        <watch expression="X.unsqueeze(0)" />
+        <watch expression="X.squeeze(0)" />
+        <watch expression="inputs.float()" />
+        <watch expression="model" language="Python" />
+        <watch expression="model" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MDF_SA_DDI_main$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1643614984225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$task12.coverage" NAME="task1重做2 Coverage Results" MODIFIED="1643701101216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$task1.coverage" NAME="task1重做 Coverage Results" MODIFIED="1643632548814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$task1_old.coverage" NAME="task1_old Coverage Results" MODIFIED="1644978830444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

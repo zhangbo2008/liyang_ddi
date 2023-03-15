@@ -1,0 +1,144 @@
+ssh://troila@172.27.102.200:22/usr/local/bin/python3.7 -u /home/troila/zhangbo/9999liyang/task1_old.py
+smile len is:572
+target len is:572
+enzyme len is:572
+dataset len 37264
+train len 29811
+test len 7453
+arg train len 59622
+test len 7453
+epoch [1] loss: 0.074287 testing_loss: 0.051987
+epoch [2] loss: 0.055343 testing_loss: 0.038654
+epoch [3] loss: 0.047037 testing_loss: 0.031088
+epoch [4] loss: 0.042745 testing_loss: 0.026466
+epoch [5] loss: 0.038853 testing_loss: 0.023919
+epoch [6] loss: 0.036704 testing_loss: 0.023598
+epoch [7] loss: 0.034652 testing_loss: 0.020991
+epoch [8] loss: 0.033501 testing_loss: 0.019106
+epoch [9] loss: 0.032419 testing_loss: 0.018710
+epoch [10] loss: 0.030276 testing_loss: 0.017883
+epoch [11] loss: 0.030072 testing_loss: 0.016151
+epoch [12] loss: 0.029347 testing_loss: 0.015947
+epoch [13] loss: 0.028339 testing_loss: 0.014706
+epoch [14] loss: 0.027681 testing_loss: 0.014214
+epoch [15] loss: 0.026902 testing_loss: 0.014034
+epoch [16] loss: 0.025629 testing_loss: 0.013319
+epoch [17] loss: 0.025041 testing_loss: 0.013705
+epoch [18] loss: 0.025210 testing_loss: 0.012456
+epoch [19] loss: 0.024578 testing_loss: 0.012410
+epoch [20] loss: 0.025443 testing_loss: 0.011811
+epoch [21] loss: 0.023974 testing_loss: 0.010932
+epoch [22] loss: 0.024112 testing_loss: 0.012408
+epoch [23] loss: 0.022728 testing_loss: 0.010241
+epoch [24] loss: 0.023304 testing_loss: 0.010983
+epoch [25] loss: 0.022687 testing_loss: 0.010377
+epoch [26] loss: 0.022429 testing_loss: 0.009574
+epoch [27] loss: 0.021696 testing_loss: 0.009426
+epoch [28] loss: 0.021086 testing_loss: 0.009347
+epoch [29] loss: 0.021610 testing_loss: 0.009671
+epoch [30] loss: 0.019859 testing_loss: 0.008786
+epoch [31] loss: 0.020527 testing_loss: 0.008612
+epoch [32] loss: 0.020128 testing_loss: 0.008578
+epoch [33] loss: 0.020575 testing_loss: 0.008777
+epoch [34] loss: 0.020760 testing_loss: 0.008776
+epoch [35] loss: 0.019272 testing_loss: 0.009030
+epoch [36] loss: 0.020359 testing_loss: 0.008346
+epoch [37] loss: 0.020911 testing_loss: 0.009736
+epoch [38] loss: 0.019002 testing_loss: 0.009779
+epoch [39] loss: 0.018423 testing_loss: 0.010110
+epoch [40] loss: 0.019715 testing_loss: 0.008225
+epoch [41] loss: 0.019534 testing_loss: 0.008518
+epoch [42] loss: 0.018850 testing_loss: 0.007456
+epoch [43] loss: 0.018210 testing_loss: 0.007581
+epoch [44] loss: 0.019234 testing_loss: 0.008155
+epoch [45] loss: 0.018504 testing_loss: 0.006961
+epoch [46] loss: 0.018643 testing_loss: 0.007686
+epoch [47] loss: 0.017837 testing_loss: 0.006702
+epoch [48] loss: 0.017652 testing_loss: 0.006971
+epoch [49] loss: 0.017806 testing_loss: 0.007325
+epoch [50] loss: 0.016882 testing_loss: 0.007215
+epoch [51] loss: 0.017027 testing_loss: 0.006416
+epoch [52] loss: 0.017479 testing_loss: 0.006604
+epoch [53] loss: 0.017180 testing_loss: 0.006620
+epoch [54] loss: 0.016881 testing_loss: 0.006685
+epoch [55] loss: 0.017885 testing_loss: 0.006300
+epoch [56] loss: 0.016336 testing_loss: 0.006472
+epoch [57] loss: 0.017226 testing_loss: 0.006458
+epoch [58] loss: 0.017086 testing_loss: 0.006319
+epoch [59] loss: 0.016244 testing_loss: 0.006241
+epoch [60] loss: 0.016645 testing_loss: 0.005887
+epoch [61] loss: 0.010545 testing_loss: 0.002859
+epoch [62] loss: 0.010667 testing_loss: 0.003181
+epoch [63] loss: 0.009984 testing_loss: 0.002628
+epoch [64] loss: 0.010212 testing_loss: 0.002914
+epoch [65] loss: 0.010149 testing_loss: 0.002792
+epoch [66] loss: 0.009988 testing_loss: 0.002426
+epoch [67] loss: 0.010688 testing_loss: 0.002765
+epoch [68] loss: 0.010626 testing_loss: 0.002533
+epoch [69] loss: 0.009898 testing_loss: 0.002914
+epoch [70] loss: 0.010017 testing_loss: 0.002760
+epoch [71] loss: 0.009767 testing_loss: 0.002621
+epoch [72] loss: 0.010081 testing_loss: 0.002827
+epoch [73] loss: 0.010260 testing_loss: 0.002408
+epoch [74] loss: 0.010117 testing_loss: 0.002954
+epoch [75] loss: 0.010112 testing_loss: 0.002925
+epoch [76] loss: 0.009879 testing_loss: 0.002488
+epoch [77] loss: 0.009642 testing_loss: 0.003023
+epoch [78] loss: 0.009501 testing_loss: 0.002682
+epoch [79] loss: 0.010004 testing_loss: 0.002758
+epoch [80] loss: 0.009367 testing_loss: 0.002300
+epoch [81] loss: 0.009985 testing_loss: 0.002399
+epoch [82] loss: 0.008948 testing_loss: 0.002228
+epoch [83] loss: 0.009550 testing_loss: 0.002818
+epoch [84] loss: 0.009378 testing_loss: 0.002627
+epoch [85] loss: 0.009579 testing_loss: 0.002448
+epoch [86] loss: 0.009142 testing_loss: 0.002501
+epoch [87] loss: 0.008513 testing_loss: 0.002228
+epoch [88] loss: 0.009198 testing_loss: 0.002422
+epoch [89] loss: 0.008965 testing_loss: 0.002268
+epoch [90] loss: 0.008602 testing_loss: 0.003008
+epoch [91] loss: 0.009381 testing_loss: 0.002367
+epoch [92] loss: 0.009046 testing_loss: 0.002316
+epoch [93] loss: 0.009284 testing_loss: 0.002516
+epoch [94] loss: 0.008419 testing_loss: 0.002521
+epoch [95] loss: 0.008979 testing_loss: 0.002191
+epoch [96] loss: 0.008288 testing_loss: 0.002177
+epoch [97] loss: 0.008541 testing_loss: 0.002461
+epoch [98] loss: 0.008793 testing_loss: 0.002221
+epoch [99] loss: 0.007829 testing_loss: 0.002363
+epoch [100] loss: 0.008495 testing_loss: 0.002193
+epoch [101] loss: 0.007937 testing_loss: 0.002393
+epoch [102] loss: 0.008126 testing_loss: 0.002266
+epoch [103] loss: 0.008675 testing_loss: 0.002109
+epoch [104] loss: 0.008728 testing_loss: 0.002495
+epoch [105] loss: 0.008243 testing_loss: 0.002291
+epoch [106] loss: 0.008212 testing_loss: 0.002340
+epoch [107] loss: 0.008305 testing_loss: 0.002300
+epoch [108] loss: 0.008500 testing_loss: 0.002374
+epoch [109] loss: 0.008144 testing_loss: 0.002081
+epoch [110] loss: 0.007914 testing_loss: 0.002877
+epoch [111] loss: 0.008440 testing_loss: 0.002414
+epoch [112] loss: 0.008003 testing_loss: 0.002144
+epoch [113] loss: 0.007803 testing_loss: 0.002117
+epoch [114] loss: 0.008164 testing_loss: 0.002285
+epoch [115] loss: 0.008375 testing_loss: 0.002351
+epoch [116] loss: 0.007754 testing_loss: 0.002089
+epoch [117] loss: 0.008260 testing_loss: 0.002390
+epoch [118] loss: 0.008202 testing_loss: 0.002281
+epoch [119] loss: 0.007818 testing_loss: 0.002083
+epoch [120] loss: 0.007791 testing_loss: 0.002022
+打印训练结果
+[[0.93760902]
+ [0.97790532]
+ [0.939387  ]
+ [0.99907342]
+ [0.99649029]
+ [0.93760902]
+ [0.89397544]
+ [0.93760902]
+ [0.90108555]
+ [0.93760902]
+ [0.89587577]]
+time used: 0.8954876897070143
+
+Process finished with exit code 0
